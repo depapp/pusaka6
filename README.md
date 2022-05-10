@@ -1,2 +1,2 @@
 # pusaka6
-pusakatest is an automation testing tool based on k6
+pusaka6 is an automation testing tool based on k6
